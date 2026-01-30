@@ -63,7 +63,7 @@ portfolio tracker.py
 
 ---
 
-Saving to a File
+## Saving to a File
 •	After calculations, the program asks if you want to save the portfolio
 •	If you choose yes, enter a filename (e.g., portfolio.txt)
 •	The file will include:
@@ -74,7 +74,7 @@ o	Total investment value
 
 ---
 
-Error Handling
+## Error Handling
 •	Invalid stock symbols are rejected
 •	Quantity must be a positive number
 •	Non-numeric input is handled safely
@@ -82,10 +82,10 @@ Error Handling
 
 ---
 
-Technologies Used
+## Technologies Used
 Language: Python Tool: VS Code
 
 ---
 
-Author
+## Author
 Komal Bagal
